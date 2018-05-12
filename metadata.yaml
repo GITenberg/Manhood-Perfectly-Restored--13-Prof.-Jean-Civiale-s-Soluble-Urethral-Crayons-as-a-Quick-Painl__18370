@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8011'
     url: http://www.gutenberg.org/2009/agents/8011
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18370#Manhood-Perfectly-Restored--13-Prof.-Jean-Civiale-s-Soluble-Urethral-Crayons-as-a-Quick-Painl_
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '2006-05-11'
 gutenberg_type: Text
